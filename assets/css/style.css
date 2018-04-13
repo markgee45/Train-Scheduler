@@ -1,0 +1,12 @@
+body {
+    background: url('../images/manners.jpg') no-repeat center center fixed;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.container {
+	
+    background-color: rgba(200, 200, 200, 0.8);
+    padding: 15px;
+}
